@@ -1,3 +1,3 @@
 WATCHNOTES 1
-b7komb|9|103540484|227|g|7B Kombinatorik (1,2,3,5)
-b7stat|7|69758739|227|g|7B Statistik (6,8)
+b7komb|17|2905614|227|g|7B Kombinatorik (1,2,3,5)
+b7stat|10|243881282|227|g|7B Statistik (6,8)
