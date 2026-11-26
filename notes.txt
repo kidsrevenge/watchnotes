@@ -1,2 +1,4 @@
 WATCHNOTES 1
 pzf5l7|2|106820056|227|g|Neue Notiz
+b7komb|9|150078467|227|g|7B Kombinatorik (1,2,3,5)
+b7stat|7|212379660|227|g|7B Statistik (6,8)
